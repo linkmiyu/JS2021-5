@@ -6,9 +6,15 @@
     기본형, if else if 조건문
 
  > swith 조건문
-    기본형 
+     <!-- 기본형 -->
+     
     ![image](https://user-images.githubusercontent.com/79895978/112938749-2eede880-9165-11eb-9ec8-d07cfabad75b.png)
-    
+
+ > 삼항 연산자
+    기본형태 - <불 표현식> ? <참> : <거짓>
+     ex) console.log(number % 2 == 0? "짝수":"홀수"); 
+
+ > 
 
 
 ## [03/23]
