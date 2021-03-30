@@ -14,7 +14,31 @@
     기본형태 - <불 표현식> ? <참> : <거짓>
      ex) console.log(number % 2 == 0? "짝수":"홀수"); 
 
- > 
+ > 배열
+    여러 자료를 한번에 다루는 자료형 (여러 자료형을 다 사용 가능)
+    요소 - 배열 안에 들어가 있는 자료
+    ex) let name = [자료1, 자료2, 자료3]
+
+ > 반복문
+  >> while (반복의 형태, 횟수를 알수 없는 경우)
+    기본형 - while (bool 표현식) { 문장;}
+
+  >> for
+    기본형 - for (let i =0; i<10; i++) {문장;}
+
+    역 for 문 - for (let i = length - 1: i >=0; i--;) {문장;}
+     ![image](https://user-images.githubusercontent.com/79895978/112951756-ab3cf780-9176-11eb-8a06-a245b2a41c6a.png)
+    
+    for in, for of 문 - for (let 인덱스 in 배열) {문장;}, for (let item of 배열) {문장;}
+    ![image](https://user-images.githubusercontent.com/79895978/112952514-8a28d680-9177-11eb-9384-6caeacc31807.png)
+
+    
+
+
+
+  
+      
+    
 
 
 ## [03/23]

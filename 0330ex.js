@@ -1,4 +1,4 @@
-// switch
+// switch 문
 let input = 31;
 
 switch (input %2 ) {
@@ -73,6 +73,12 @@ let test;
          callback();
     }
  })
+
+//배열
+
+let array = [52, "hello", "우횻",3.14, true, false]
+console.log(array);
+console.log(array[3]);
 
 
  
