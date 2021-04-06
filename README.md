@@ -1,14 +1,19 @@
 # 유진현 [201840220]
 
+
+## [04/06]
+
+
 ## [03/30]
 
  > 중첩 조건문
     기본형, if else if 조건문
 
- > swith 조건문
+ > switch 조건문
      <!-- 기본형 -->
      
-    ![image](https://user-images.githubusercontent.com/79895978/112938749-2eede880-9165-11eb-9ec8-d07cfabad75b.png)
+![image](https://user-images.githubusercontent.com/79895978/112954688-99108880-9179-11eb-9cc6-7b1f3f8f9c56.png)
+
 
  > 삼항 연산자
     기본형태 - <불 표현식> ? <참> : <거짓>
@@ -27,12 +32,11 @@
     기본형 - for (let i =0; i<10; i++) {문장;}
 
     역 for 문 - for (let i = length - 1: i >=0; i--;) {문장;}
-     ![image](https://user-images.githubusercontent.com/79895978/112951756-ab3cf780-9176-11eb-8a06-a245b2a41c6a.png)
+![image](https://user-images.githubusercontent.com/79895978/112951756-ab3cf780-9176-11eb-8a06-a245b2a41c6a.png)
     
     for in, for of 문 - for (let 인덱스 in 배열) {문장;}, for (let item of 배열) {문장;}
-    ![image](https://user-images.githubusercontent.com/79895978/112952514-8a28d680-9177-11eb-9384-6caeacc31807.png)
+![image](https://user-images.githubusercontent.com/79895978/112952514-8a28d680-9177-11eb-9384-6caeacc31807.png)
 
-    
 
 
 
