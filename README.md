@@ -45,6 +45,7 @@
   
   > 스코프
 ![image](https://user-images.githubusercontent.com/79895978/113675718-9de3b800-96f6-11eb-8018-edd24545d263.png)
+  
   > var 키워드
 ![image](https://user-images.githubusercontent.com/79895978/113676313-4134cd00-96f7-11eb-92d9-22c2fa282d0e.png)
 
