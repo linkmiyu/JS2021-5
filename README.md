@@ -8,7 +8,7 @@
  > swith 조건문
      <!-- 기본형 -->
      
-    ![image](https://user-images.githubusercontent.com/79895978/112938749-2eede880-9165-11eb-9ec8-d07cfabad75b.png)
+    ![image](https://user-images.githubusercontent.com/79895978/112954688-99108880-9179-11eb-9cc6-7b1f3f8f9c56.png)
 
  > 삼항 연산자
     기본형태 - <불 표현식> ? <참> : <거짓>
