@@ -2,8 +2,53 @@
 
 
 ## [04/06]
+  > for in 문 예시
+    let foo = [10, 20, 30, 40, 50];
+    for (let i in foo) {
+    console.log(`${i}번째 요소는 ${foo[i]}이다.`)
+    }
+
+    for of 문 예시
+    let foo = [10, 20, 30, 40, 50];
+    for (let item of foo) {
+    console.log(item)
+   }
+  
+  > break 키워드
+   반복문중 break를 만나면 반복문에서 벗어남
+  
+  > 배열 선언관련
+     =선언 및 초기화=
+      - let foo = new Array();
+      - let bar = [];
+  
+     =선언과 동시에 초기화=
+      - let foo = new Array(ex, ex2, ex3);
+      - let bar = [ex, ex2, ex3];
+    
+    =배열의 길이=
+     - console.log(foo.length); 
+
+    push는 배열의 끝에 원하는 값을 추가하는 함수
+    pop는 배열의 마지막 주소에 있는 값을 삭제하는 함수
+    shift는 첫번째 주소에 있는 값을 제거하는 함수
+    concat은 두개의 배열을 합치는 함수
+    reverse는 배열을 역순을 배치
+    sort는 아스키값 순 으로 배열 정렬
+    slice는 지정한 인덱스 값을 복사 ex) (1,5) 면 1~4
+    splice는 지정한 인덱스 값을 잘라냄 ex) (1,3) 1~3
+    join은 배열값 사이에 원하는 문자 삽입하여 반환
 
 
+  > continue 키워드
+    반복문 내부에서 현재 반복을 멈추고 다음 반복을 진행
+  
+  > 스코프
+![image](https://user-images.githubusercontent.com/79895978/113675718-9de3b800-96f6-11eb-8018-edd24545d263.png)
+  > var 키워드
+![image](https://user-images.githubusercontent.com/79895978/113676313-4134cd00-96f7-11eb-92d9-22c2fa282d0e.png)
+
+    
 ## [03/30]
 
  > 중첩 조건문
