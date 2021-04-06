@@ -27,10 +27,10 @@
     기본형 - for (let i =0; i<10; i++) {문장;}
 
     역 for 문 - for (let i = length - 1: i >=0; i--;) {문장;}
-     ![image](https://user-images.githubusercontent.com/79895978/112951756-ab3cf780-9176-11eb-8a06-a245b2a41c6a.png)
+![image](https://user-images.githubusercontent.com/79895978/112951756-ab3cf780-9176-11eb-8a06-a245b2a41c6a.png)
     
     for in, for of 문 - for (let 인덱스 in 배열) {문장;}, for (let item of 배열) {문장;}
-    ![image](https://user-images.githubusercontent.com/79895978/112952514-8a28d680-9177-11eb-9384-6caeacc31807.png)
+![image](https://user-images.githubusercontent.com/79895978/112952514-8a28d680-9177-11eb-9384-6caeacc31807.png)
 
     
 
